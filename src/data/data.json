@@ -3,96 +3,144 @@
     "id": 1,
     "title": "Horizon Zero Dawn ™",
     "price": "49,95",
-    "image": "../assets/images/horizon.png"
+    "image": "../assets/images/horizon.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 2,
     "title": "God of War ™",
     "price": "149,95",
-    "image": "../assets/images/god-of-war.png"
+    "image": "../assets/images/god-of-war.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 3,
     "title": "Red Dead Redemptio...",
     "price": "189,95",
-    "image": "../assets/images/red-dead-redemption.png"
+    "image": "../assets/images/red-dead-redemption.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 4,
     "title": "The Witcher 3: Wild...",
     "price": "39,95",
-    "image": "../assets/images/the-witcher-3.png"
+    "image": "../assets/images/the-witcher-3.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 5,
     "title": "Howarts Legacy",
     "price": "49,95",
-    "image": "../assets/images/howarts-legacy.png"
+    "image": "../assets/images/howarts-legacy.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 6,
     "title": "Final Fantasy XVI",
     "price": "149,95",
-    "image": "../assets/images/final-fantasy-xvi.png"
+    "image": "../assets/images/final-fantasy-xvi.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 7,
     "title": "Kena, bridge of spirits",
     "price": "189,95",
-    "image": "../assets/images/kena-bridge-of-spirits.png"
+    "image": "../assets/images/kena-bridge-of-spirits.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 8,
     "title": "Goodbye volcano highs",
     "price": "39,95",
-    "image": "../assets/images/godbye-volcano-highs.png"
+    "image": "../assets/images/godbye-volcano-highs.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 9,
     "title": "GhostWire: Tokyo",
     "price": "49,95",
-    "image": "../assets/images/ghostwire-tokio.png"
+    "image": "../assets/images/ghostwire-tokio.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 10,
     "title": "Horizon: Forbidden West",
     "price": "149,95",
-    "image": "../assets/images/horizon-forbiddenwest.png"
+    "image": "../assets/images/horizon-forbiddenwest.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 11,
     "title": "Bugsnax",
     "price": "189,95",
-    "image": "../assets/images/bugsnax.png"
+    "image": "../assets/images/bugsnax.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 12,
     "title": "Resident Evil Village",
     "price": "39,95",
-    "image": "../assets/images/resident-evil-village.png"
+    "image": "../assets/images/resident-evil-village.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 13,
     "title": "Deathloop",
     "price": "49,95",
-    "image": "../assets/images/deathloop.png"
+    "image": "../assets/images/deathloop.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 14,
     "title": "Returnal",
     "price": "149,95",
-    "image": "../assets/images/returnal.png"
+    "image": "../assets/images/returnal.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 15,
     "title": "Jett: The Far Shore",
     "price": "189,95",
-    "image": "../assets/images/jett-the-far-shore.png"
+    "image": "../assets/images/jett-the-far-shore.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   },
   {
     "id": 16,
     "title": "God of War: Ragnarok",
     "price": "39,95",
-    "image": "../assets/images/god-of-war-ragnarok.png"
+    "image": "../assets/images/god-of-war-ragnarok.png",
+    "description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal. • Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica. • Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja. • Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+    "imgDetailBG": "../assets/images/god-of-war-detailBG.png",
+    "imgDetail": "../assets/images/god-of-war-detail.png"
   }
 ]
