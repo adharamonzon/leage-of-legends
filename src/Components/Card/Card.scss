@@ -1,0 +1,27 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  &__img{
+    width: 360px;
+    height: auto;
+  }
+  &__info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    &--textContainer{
+      display: flex;
+      flex-direction: column;
+    &__title{
+      color:$textTitleColor;
+      font-size: 18px;
+      font-weight: normal;
+    }
+    &__price{
+      color:$textColor;
+      font-size: 14px;
+    }
+    }
+    
+  }
+}

@@ -1,0 +1,98 @@
+[
+ {
+    "id": 1,
+    "title": "Horizon Zero Dawn ™",
+    "price": "49,95",
+    "image": "../assets/images/horizon.png"
+  },
+  {
+    "id": 2,
+    "title": "God of War ™",
+    "price": "149,95",
+    "image": "../assets/images/god-of-war.png"
+  },
+  {
+    "id": 3,
+    "title": "Red Dead Redemptio...",
+    "price": "189,95",
+    "image": "../assets/images/red-dead-redemption.png"
+  },
+  {
+    "id": 4,
+    "title": "The Witcher 3: Wild...",
+    "price": "39,95",
+    "image": "../assets/images/the-witcher-3.png"
+  },
+  {
+    "id": 5,
+    "title": "Howarts Legacy",
+    "price": "49,95",
+    "image": "../assets/images/howarts-legacy.png"
+  },
+  {
+    "id": 6,
+    "title": "Final Fantasy XVI",
+    "price": "149,95",
+    "image": "../assets/images/final-fantasy-xvi.png"
+  },
+  {
+    "id": 7,
+    "title": "Kena, bridge of spirits",
+    "price": "189,95",
+    "image": "../assets/images/kena-bridge-of-spirits.png"
+  },
+  {
+    "id": 8,
+    "title": "Goodbye volcano highs",
+    "price": "39,95",
+    "image": "../assets/images/godbye-volcano-highs.png"
+  },
+  {
+    "id": 9,
+    "title": "GhostWire: Tokyo",
+    "price": "49,95",
+    "image": "../assets/images/ghostwire-tokio.png"
+  },
+  {
+    "id": 10,
+    "title": "Horizon: Forbidden West",
+    "price": "149,95",
+    "image": "../assets/images/horizon-forbiddenwest.png"
+  },
+  {
+    "id": 11,
+    "title": "Bugsnax",
+    "price": "189,95",
+    "image": "../assets/images/bugsnax.png"
+  },
+  {
+    "id": 12,
+    "title": "Resident Evil Village",
+    "price": "39,95",
+    "image": "../assets/images/resident-evil-village.png"
+  },
+  {
+    "id": 13,
+    "title": "Deathloop",
+    "price": "49,95",
+    "image": "../assets/images/deathloop.png"
+  },
+  {
+    "id": 14,
+    "title": "Returnal",
+    "price": "149,95",
+    "image": "../assets/images/returnal.png"
+  },
+  {
+    "id": 15,
+    "title": "Jett: The Far Shore",
+    "price": "189,95",
+    "image": "../assets/images/jett-the-far-shore.png"
+  },
+  {
+    "id": 16,
+    "title": "God of War: Ragnarok",
+    "price": "39,95",
+    "image": "../assets/images/god-of-war-ragnarok.png"
+  }
+]
