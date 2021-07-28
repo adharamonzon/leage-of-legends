@@ -1,7 +1,8 @@
 import React from 'react';
 
-const Button = () => {
-  return <button className=" btn uppercase">Buy now</button>
+const Button = (props) => {
+  console.log(props);
+  return <button className=" btn uppercase">{props.text}</button>
 }
 
 export default Button;

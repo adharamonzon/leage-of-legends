@@ -14,7 +14,7 @@ const Card = (props) => {
        <p className="card__info--textContainer__title">{props.game.title}</p>
        <p className="card__info--textContainer__price">{props.game.price} <span className="uppercase">usd</span></p>
       </div>
-      <Button /> 
+      <Button text="Buy now"/> 
       </section>
     </Link>
   </article>)
