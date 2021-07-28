@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types';
+
 //componentes
 import Button from '../Button/Button';
 
@@ -21,3 +23,7 @@ const Card = (props) => {
 }
 
 export default Card;
+
+Card.propTypes = {
+  game: PropTypes.object,
+}

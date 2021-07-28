@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Button from '../Button/Button';
+import PropTypes from 'prop-types';
 
 const Detail = (props) => {
-  console.log(props);
   return <section className="detail">
     <Link to="/" className="detail__iconContainer">
       <i className="fas fa-chevron-left detail__iconContainer__icon"></i>
@@ -27,3 +26,7 @@ const Detail = (props) => {
 }
 
 export default Detail;
+
+Detail.propTypes = {
+  game: PropTypes.object,
+}

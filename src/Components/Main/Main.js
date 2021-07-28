@@ -1,4 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+
 import Card from '../Card/Card';
 
 const Main = (props) => {
@@ -16,3 +18,7 @@ const Main = (props) => {
 };
 
 export default Main;
+
+Main.propTypes = {
+  games: PropTypes.array,
+}
