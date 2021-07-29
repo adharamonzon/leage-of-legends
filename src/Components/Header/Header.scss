@@ -4,14 +4,39 @@
   width: 100%;
   height: 100vh;
   background-color: black;
-  background-image: url(../../assets/images/background.png);
-  background-position: top;
-  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding-top: 200px;
-  padding-left: 180px;
+  &__item1{
+    background-image: url(../../assets/images/background.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    &--content{
+    padding-top: 200px;
+    padding-left: 180px; 
+  }
+  }
+  &__item2{
+    background-image: url(../../assets/images/background.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    &--content{
+    padding-top: 200px;
+    padding-left: 180px; 
+  }
+  }
+  &__item3{
+    background-image: url(../../assets/images/background.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    &--content{
+    padding-top: 200px;
+    padding-left: 180px; 
+  }
+  }
   &__subtitle{
     color: $textTitleColor;
     font-family: $textFamily;

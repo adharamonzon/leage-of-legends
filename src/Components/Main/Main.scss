@@ -16,5 +16,8 @@
     column-gap: 40px;
     row-gap: 70px;
     margin-bottom: 150px;
+    &--item{
+      list-style: none;
+    }
   }
 }

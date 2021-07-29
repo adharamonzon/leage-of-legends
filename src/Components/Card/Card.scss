@@ -1,8 +1,9 @@
 .card{
   display: flex;
   flex-direction: column;
+  background-color: black;
   &__link{
-    text-decoration: none;
+    text-decoration: none  !important;
   }
   &__img{
     width: 360px;

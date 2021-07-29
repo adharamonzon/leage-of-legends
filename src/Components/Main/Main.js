@@ -6,7 +6,7 @@ import Card from '../Card/Card';
 const Main = (props) => {
     const games = props.games.map((game) => {
       return (
-        <li key={game.id}>
+        <li className="main__list--item" key={game.id}>
           <Card game={game}/>
         </li>
       )})
