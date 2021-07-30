@@ -4,8 +4,8 @@
   background-color: #030616;
   background-image: url('../../assets/images/god-of-war-detailBG.png');
   background-repeat: no-repeat;
+  padding-bottom: 1px;
   &__iconContainer{
-    text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,6 +16,10 @@
     left: 180px; 
     width: 30px;
     height: 30px;
+    text-decoration: none;
+    &:hover{
+      text-decoration: none;
+    }
     &__icon{
       color: $textTitleColor;
       font-size: 18px;
@@ -69,6 +73,7 @@
       border-radius: 4px;
       border: none;
       font-size: 13px;
+      cursor: pointer;
     }
   }
   &__description{
@@ -81,7 +86,7 @@
     &--imgContainer{
       width: 460px;
       height: auto;
-      padding-bottom: 200px;
+      padding-bottom: 100px;
     }
     &--text{
       margin-left: 30px;

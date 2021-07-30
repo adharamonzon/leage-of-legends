@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 const Detail = (props) => {
   return <section className="detail">
-    <Link to="/" className="detail__iconContainer">
+    <Link to="/" className="detail__iconContainer link">
       <i className="fas fa-chevron-left detail__iconContainer__icon"></i>
     </Link>
     <div className="detail__tagContainer uppercase">
