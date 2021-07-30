@@ -2,15 +2,15 @@ import React, { useState, useEffect } from 'react';
 import { Route } from 'react-router-dom';
 //componentes
 import Header from './Header/Header.js';
-import Main from './Main/Main.js';
+import Main from './Main/Main';
 import Detail from './Detail/Detail';
 //data
 import data from '../data/data.json';
 //estilos
 import './App.scss';
 
-function App() {
-  const [games, setGames] = useState([]);
+const App: React.FC = () => {
+  const [games, setGames] = useState<Array<any>>([]);
 
   useEffect(() => {
     setData();
@@ -19,7 +19,10 @@ function App() {
   const setData = () => {
     setGames(data);
   }
-  const gameDetail = (props) => {
+ 
+
+  const gameDetail = (props: any) => {
+    console.log(props);
     //props => history /location/match del link
     let selectedGame = games.find((game) => {
       return game.id === parseInt(props.match.params.id)

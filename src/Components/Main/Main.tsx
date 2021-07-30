@@ -1,9 +1,15 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React from 'react';/* 
+import PropTypes from 'prop-types'; */
 
 import Card from '../Card/Card';
 
-const Main = (props) => {
+
+interface Props{
+  games: Array<any>;
+}
+
+const Main:React.FC<Props> = (props) => {
+
     const games = props.games.map((game) => {
       return (
         <li className="main__list--item" key={game.id}>
@@ -19,6 +25,6 @@ const Main = (props) => {
 
 export default Main;
 
-Main.propTypes = {
+/* Main.propTypes = {
   games: PropTypes.array,
-}
+} */
