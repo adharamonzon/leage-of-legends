@@ -27,7 +27,7 @@ const Card:React.FC<Props> = (props) => {
        <p className="card__info--textContainer__title">{props.game.title}</p>
        <p className="card__info--textContainer__price">{props.game.price} <span className="uppercase">usd</span></p>
       </div>
-      <Button text="Buy now"/> 
+      <Button/> 
       </section>
     </Link>
   </article>)
