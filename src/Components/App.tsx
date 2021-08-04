@@ -4,6 +4,7 @@ import { BrowserRouter, Route, RouteComponentProps } from 'react-router-dom';
 import Header from './Header/Header.js';
 import Main from './Main/Main';
 import Detail from './Detail/Detail';
+import RouterScroll from './Router/Router';
 //data y types/interfaces
 import data from '../data/data.json';
 import GameType from './types';
@@ -37,6 +38,7 @@ const App: React.FC = () => {
   }
   return (
     <BrowserRouter>
+      <RouterScroll/>
       <div className="App">
         <Route exact path="/">
           <Header />
