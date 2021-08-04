@@ -1,11 +1,9 @@
-import React from 'react';/* 
-import PropTypes from 'prop-types'; */
-
+import React from 'react';
 import Card from '../Card/Card';
-
+import GameType from '../types';
 
 interface Props{
-  games: Array<any>;
+  games: GameType[];
 }
 
 const Main:React.FC<Props> = (props) => {
@@ -24,7 +22,3 @@ const Main:React.FC<Props> = (props) => {
 };
 
 export default Main;
-
-/* Main.propTypes = {
-  games: PropTypes.array,
-} */

@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   padding-left: 180px;
-  background-color: black;
+  background-color: $backGroundColor;
   font-family: $textFamily;
   &__title{
     font-size: 13px;

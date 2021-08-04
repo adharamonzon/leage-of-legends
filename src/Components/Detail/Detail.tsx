@@ -1,18 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import GameType from '../types';
 
-interface Game {
-  id: number;
-  tag: string;
-  title: string;
-  price: string;
-  image?: string;
-  imgDetail?: string;
-  imgDetailBG?: string;
-  description: string;
-}
 interface Props{
-  selectedGame: Game;
+  selectedGame: GameType;
 }
 const Detail:React.FC<Props> = (props) => {
   return <section className="detail">
@@ -38,7 +29,3 @@ const Detail:React.FC<Props> = (props) => {
 }
 
 export default Detail;
-
-/* Detail.propTypes = {
-  game: PropTypes.object,
-} */

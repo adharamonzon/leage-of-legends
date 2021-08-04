@@ -8,7 +8,7 @@ const Header = () => {
           <li data-target="#carouselExampleIndicators" className="header__list--item" data-slide-to="2"></li>
           <li data-target="#carouselExampleIndicators" className="header__list--item" data-slide-to="3"></li>
         </ol>
-        <div className="carousel-inner">
+        <div className="carousel-inner header__container">
           <div className="carousel-item active header__item">
             <div className="header__item--content">
               <small className="header__subtitle">Awarded and recommended</small>

@@ -1,19 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-/* import PropTypes from 'prop-types'; */
+import GameType from '../types';
 
 //componentes
 import Button from '../Button/Button';
 
-interface Game {
-  id: Number;
-  image: string;
-  title: string;
-  price: string;
-}
-
 interface Props{
-  game: Game;
+  game: GameType;
 }
 
 const Card:React.FC<Props> = (props) => {
@@ -34,7 +27,3 @@ const Card:React.FC<Props> = (props) => {
 }
 
 export default Card;
-
-/* Card.propTypes = {
-  game: PropTypes.object,
-} */
